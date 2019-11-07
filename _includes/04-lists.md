@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Harry Potter
+- Calikusu
+- Pride and Prejudice
+- Persuasion
+- Jane Eyre
+- North and South
